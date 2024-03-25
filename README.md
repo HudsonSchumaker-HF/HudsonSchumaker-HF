@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hudson Schumaker
-- 👀 I’m interested in Java, Kotlin
+- 👀 I’m interested in Java, Kotlin, C++
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Platform
 
