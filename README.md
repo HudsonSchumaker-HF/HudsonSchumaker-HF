@@ -1,16 +1,43 @@
-- 👋 Hi, I’m Hudson Schumaker
-- 👀 I’m interested in Java, Kotlin, C++
-- 🌱 I’m currently learning hwo to build a framework
-- 💞️ I’m looking to collaborate on Data Platform
+# Hi there, I'm Hudson Schumaker 👋
 
+## 🚀 About Me
 
-## 📊 Estatísticas do GitHub
+I'm a passionate developer who loves building robust and scalable solutions. Currently exploring the fascinating world of framework development while working on data platform technologies.
 
-![Schumaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=HudsonSchumaker-HF&show_icons=true&theme=radical&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HudsonSchumaker-HF&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=HudsonSchumaker-HF&theme=radical&hide_border=true)](https://git.demolab.com/HudsonSchumaker-HF)
+```java
+public class HudsonSchumaker {
+    private String[] interests = {"Java", "Kotlin", "C++"};
+    private String currentFocus = "Building Frameworks";
+    private String lookingFor = "Data Platform Collaboration";
+    
+    public void sayHi() {
+        System.out.println("Thanks for visiting my profile! 🚀");
+    }
+}
+```
 
-<!---
-HudsonSchumaker-HF/HudsonSchumaker-HF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+## 🌱 Currently Learning
+
+- Framework Architecture & Design Patterns
+- Performance Optimization
+- Distributed Systems
+
+## 💞️ Let's Collaborate!
+
+I'm actively looking for collaboration opportunities in:
+- **Data Platform Projects**
+- Open Source Contributions
+- Framework Development
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HudsonSchumaker-HF&show_icons=true&theme=radical)
+
+---
+⭐️ From [Hudson Schumaker](https://github.com/HudsonSchumaker-HF)
