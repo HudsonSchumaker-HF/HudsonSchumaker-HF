@@ -38,7 +38,7 @@ I'm actively looking for collaboration opportunities in:
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HudsonSchumaker&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HudsonSchumaker-HF&show_icons=true&theme=radical)
 
 ---
 ⭐️ From [Hudson Schumaker](https://github.com/HudsonSchumaker-HF)
