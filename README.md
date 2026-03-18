@@ -29,7 +29,7 @@ public class HudsonSchumaker {
 - Performance Optimization
 - Distributed Systems
 
-## 💞️ Let's Collaborate!
+## 🌎 Let's Collaborate!
 
 I'm actively looking for collaboration opportunities in:
 - **Data Platform Projects**
