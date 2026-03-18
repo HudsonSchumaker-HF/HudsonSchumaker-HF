@@ -6,7 +6,7 @@ I'm a passionate developer who loves building robust and scalable solutions. Cur
 
 ```java
 public class HudsonSchumaker {
-    private String[] interests = {"Java", "Kotlin", "C", C++"};
+    private String[] interests = {"Java", "Kotlin", "C", "C++"};
     private String currentFocus = "Building Frameworks";
     private String lookingFor = "Data Platform Collaboration";
     
