@@ -6,7 +6,7 @@ I'm a passionate developer who loves building robust and scalable solutions. Cur
 
 ```java
 public class HudsonSchumaker {
-    private String[] interests = {"Java", "Kotlin", "C++"};
+    private String[] interests = {"Java", "Kotlin", "C", C++"};
     private String currentFocus = "Building Frameworks";
     private String lookingFor = "Data Platform Collaboration";
     
@@ -20,6 +20,7 @@ public class HudsonSchumaker {
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## 🌱 Currently Learning
